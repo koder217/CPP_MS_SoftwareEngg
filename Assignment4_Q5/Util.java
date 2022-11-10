@@ -1,3 +1,3 @@
 public interface Util {
-    String convertNameUpperCase(String name)
+    String convertNameUpperCase(String name);
 }

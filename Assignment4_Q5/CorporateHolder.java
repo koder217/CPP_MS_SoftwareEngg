@@ -7,10 +7,10 @@ public class CorporateHolder extends AccountHolder{
     }
 
     public String getContact(){
-        return this.contact
+        return this.contact;
     }
 
     public void setContact(String contact){
-        this.contact = contact
+        this.contact = contact;
     }
 }
